@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{18DF5810-BE11-4F43-B67E-F83F14E2BD83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld-GC/Program.cs">
+    <Files>
+      <File FileName="HelloWorld-GC/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorld-GC" expanded="True">
+            <Node name="HelloWorld-GC" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld-GC FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
